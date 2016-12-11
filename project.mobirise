@@ -132,12 +132,17 @@
         {
           "_name": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/h6-2000x1329-68.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/abc2-2000x1452-56.jpg",
             "bgColor": "#d0e4e7",
             "bgColorRadio": false,
             "bgVideo": {
@@ -154,12 +159,7 @@
           },
           "title": "Liese Demol<br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">lmfksdjqsmld</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">lmfksdjqsmld</a> "
         },
         {
           "_name": "footer1",
