@@ -1146,7 +1146,7 @@
           "_params": {
             "labelsColor": "#232323",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-1-2000x1329.jpg",
@@ -1158,18 +1158,18 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
+          "title": "<span style=\"font-weight: normal;\">CONTACTEER LIESE DEMOL:&nbsp;</span>",
           "subtitle": "",
           "form": {
             "action": "liese.demol@student.luca-arts.be",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Dankjewel!"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "NAME*"
+                "customTitle": "NAAM*"
               },
               "email": {
                 "title": "Email",
@@ -1183,11 +1183,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "MESSAGE"
+                "customTitle": "BERICHT"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEER ME</a>",
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
