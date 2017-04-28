@@ -759,6 +759,9 @@ h6,
 #form1-y .mbr-section-title {
   font-size: 30px;
 }
+#form1-y .mbr-section-title SPAN {
+  font-size: 19px;
+}
 #social-buttons2-e .mbr-section-title,
 #social-buttons2-e .btn-social {
   color: #232323;

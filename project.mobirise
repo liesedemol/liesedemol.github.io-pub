@@ -1132,6 +1132,9 @@
             },
             ".mbr-section-title": {
               "font-size": "30px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "19px"
             }
           },
           "_anchor": "form1-y",
@@ -1150,7 +1153,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "<span style=\"font-weight: normal;\">CONTACTEER LIESE DEMOL:&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">CONTACTEER LIESE DEMOL&nbsp;</span>",
           "subtitle": "",
           "form": {
             "action": "liese.demol@student.luca-arts.be",
